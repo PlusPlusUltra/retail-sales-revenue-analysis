@@ -1,0 +1,33 @@
+## Key Findings
+
+### 1. Customer Satisfaction is Strongly Influenced by Delivery Performance
+
+The analysis shows a clear relationship between delivery times and customer reviews. Orders delivered on time or ahead of schedule tend to receive higher ratings, while delayed deliveries are associated with lower customer satisfaction.
+
+### 2. Revenue is Concentrated in a Few Product Categories
+
+A limited number of product categories generate the majority of total revenue. This suggests that business performance is heavily dependent on a small set of high-performing categories.
+
+### 3. Customer Reviews are Highly Polarized
+
+Most reviews are concentrated at the extremes, with a large proportion of 5-star ratings and a smaller but significant number of 1-star ratings. This indicates that customers are more likely to leave feedback when they are either very satisfied or very dissatisfied.
+
+### 4. Shipping Costs Increase with Order Value
+
+The analysis reveals a positive relationship between order value and shipping costs. Higher-value purchases generally incur higher logistics expenses, although the increase is not perfectly proportional.
+
+### 5. Seller Performance Varies Significantly
+
+A small group of sellers generates a disproportionately large share of total revenue, highlighting the importance of top-performing sellers within the marketplace.
+
+### 6. Sales Performance Differs Across Regions
+
+Revenue distribution is not uniform across customer locations. Some regions contribute significantly more to total sales, indicating geographic differences in customer demand.
+
+### 7. Monthly Revenue Trends Reveal Business Fluctuations
+
+Revenue varies throughout the year, suggesting the presence of seasonal demand patterns and changing customer purchasing behavior over time.
+
+## Conclusion
+
+This dashboard provides an overview of sales performance, customer satisfaction, seller contribution, and regional demand. The results suggest that operational efficiency, particularly in delivery performance, plays a crucial role in customer experience, while a relatively small number of sellers and product categories drive a substantial portion of overall revenue.
